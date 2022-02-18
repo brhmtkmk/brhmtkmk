@@ -2,7 +2,7 @@
 - 👀 I’m interested in Biological Sciences & Applying Bioinformatics 
 - 🌱 I’m currently learning R programming
 - 💞️ I’m looking to collaborate on Cancer Immunology & DataSet
-- 📫 How to reach me via e-mail; ibrahimtokmak99@gmail.com
+- 📫 Reach me via e-mail; ibrahimtokmak99@gmail.com
 
 <!---
 brhmtkmk/brhmtkmk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
